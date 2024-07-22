@@ -1,0 +1,21 @@
+langchain
+langchain-community 
+chromadb
+unstructured
+pypdf
+flask
+ollama
+requests
+streamlit
+pandas
+nltk
+matplotlib
+seaborn
+ipykernel
+wordcloud
+scikit-learn
+contractions
+autocorrect
+emoji
+imbalanced-learn
+#pip install -r requirements.txt
