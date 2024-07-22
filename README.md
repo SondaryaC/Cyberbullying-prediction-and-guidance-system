@@ -58,14 +58,23 @@ Welcome to the **Cyberbullying Prediction and Guidance System** - a cutting-edge
 ## 📁 Project Structure
 cyberbullying-prediction-system/
 │
+
 ├── all.py # Main application script
+
 ├── model-test.ipynb # Notebook for model training and testing
+
 ├── ollama_chat.ipynb # Notebook for integrating Ollama and vector store
+
 ├── requirements.txt # Python dependencies
+
 ├── rf_model-1-test.pkl # Trained Random Forest model
+
 ├── tfidf_vectorizer-1-test.pkl # Trained TfidfVectorizer
+
 ├── cyberbullying007.pdf # PDF file for document processing
+
 ├── cyberbullying_tweets.csv # Csv dataset for  cyberbullyingprediction
+
 └── README.md # Project README file
 
 
@@ -86,5 +95,4 @@ Feel free to reach out if you have any questions or suggestions. Together, let's
 **Developed with ❤️ by Sondarya Chauhan**
 
 [![LinkedIn](https://www.linkedin.com/in/yourprofile/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/yourusername/)
 
